@@ -19,7 +19,7 @@ const Amir = {
 
 - 📫 How to reach me: **mamyrbas@gmail.com**
 
-- 📄 Know about my experiences: [jobvision.ir/cv/74764351-132647](jobvision.ir/cv/74764351-132647)
+- 📄 Know about my experiences: [https://jobvision.ir/cv/74764351-132647](https://jobvision.ir/cv/74764351-132647)
 
 - ⚡ Fun fact: **The World's First Webcam Was Invented to Watch a Coffee Pot**
 
