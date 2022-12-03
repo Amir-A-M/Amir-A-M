@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Amir-A-M/Amir-A-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Amir</h1>
+<h3 align="center">a 18 years old web developer from Qom in Iran</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const Amir = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Nextjs, SASS, Styled-Components, Tailwindcss, Bootstrap, Gulp],
+}
+```
+
+- 👨‍💻 some of my projects are available at: [https://amir-a-m.github.io/](https://amir-a-m.github.io/)
+
+- 📝 I sometimes write on: [https://virgool.io/@amir_the_piper](https://virgool.io/@amir_the_piper)
+
+- 💬 Ask me about: **Web, React, Internet. and a good sitcom**
+
+- 📫 How to reach me: **mamyrbas@gmail.com**
+
+- 📄 Know about my experiences: [jobvision.ir/cv/74764351-132647](jobvision.ir/cv/74764351-132647)
+
+- ⚡ Fun fact: **The World's First Webcam Was Invented to Watch a Coffee Pot**
+
+
