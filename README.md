@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">An 18 years old web developer from Qom in Iran</h3>
+<h3 align="center">a web developer from Qom</h3>
 
 
 ```js
