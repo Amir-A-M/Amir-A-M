@@ -5,6 +5,7 @@
 
 ```js
 const Amir = {
+  age: 18,
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Nextjs, SASS, Styled-Components, Tailwindcss, Bootstrap, Gulp],
